@@ -156,4 +156,4 @@ Features identified as strong predictors — `Contract`, `tenure`, `MonthlyCharg
 
 **Khadidja Aithoicine**
 AI Engineering Student — ENSTA Algiers (2024–2028)
-[LinkedIn](#) · [GitHub](https://github.com/khadidja19ath)
+[LinkedIn](https://www.linkedin.com/in/tha-ath-222a38408?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [GitHub](https://github.com/khadidja19ath)
