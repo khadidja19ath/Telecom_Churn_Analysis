@@ -154,6 +154,6 @@ Features identified as strong predictors — `Contract`, `tenure`, `MonthlyCharg
 
 ## 👩‍💻 Author
 
-**Khadidja Aithoici**
+**Khadidja Aithoicine**
 AI Engineering Student — ENSTA Algiers (2024–2028)
 [LinkedIn](#) · [GitHub](#)
